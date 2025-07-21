@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Aakrati Gupta (@aakrati-gupta)
 
-- 🎓 3rd year B.Tech student in Electrical Engineering at National Institute of Technology (NIT), Kurukshetra  
+- 🎓 4th year B.Tech student in Electrical Engineering at National Institute of Technology (NIT), Kurukshetra  
 - 👀 Passionate about **Data Analysis**, **Business Intelligence**, and **insight-driven problem-solving**  
 - 📊 Currently exploring tools like **Excel**, **SQL**, **Power BI**, and **Python for Data Analysis**  
 - 🌱 Actively learning **JavaScript** and brushing up on **data visualization** and **business reporting**  
